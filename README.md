@@ -4,7 +4,11 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ilhamrafi+%F0%9F%A4%9F)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ilhamrafi+%F0%9F%A4%9F)](https://git.io/typing-svg)
+
+</div>
 
 ## Ilham Rafiedhia Pramutighna
 
@@ -13,7 +17,7 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; width: 150px;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JycGRvY3o5Y2ExZ2FmNWo5NDdjbTluNDh4cDNmdG5lZnJuYXkxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgKHyjHcMaqTdVJxjW/giphy.gif" alt="Cat GIF" width="150" height="auto">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JycGRvY3o5Y2ExZ2FmNWo5NDdjbTluNDh4cDNmdG5lZnJuYXkxciZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/ZgKHyjHcMaqTdVJxjW/giphy.gif" alt="Cat GIF" width="150" height="auto">
     </td>
     <td style="border: none; vertical-align: top; padding-left: 15px;">
       Hi, I'm <b>Ilham</b>. I'm an <b>AI Engineer</b>, especially in <b>Computer Vision</b>.
