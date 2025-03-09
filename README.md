@@ -24,7 +24,7 @@
     <td style="border: none; vertical-align: top; padding-left: 15px;">
       Hello, I'm <b>Ilham</b>. A passionate <b>AI Engineer</b> from Indonesia. I enjoy learning and experimenting with various technologies, especially in the field of <b>Machine Learning</b> and <b> Deep Learning </b>. 🤖 
       <br><br>
-      I'm open to collaborating on projects that involve <b>Computer Vision</b>, <b>Natural Language Processing</b >, and <b>Machine Learning</b>. If you have any questions or want to discuss potential projects, feel free to reach out to me. 😁🤟
+      I'm open to collaborating on projects that involve <b>Computer Vision</b>, <b>NLP</b >, and <b>Machine Learning</b>. If you have any questions or want to discuss potential projects, feel free to reach out to me. 😁🤟
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
 ---
 
 <div align="center">
-  <h1>💻 Tech Stack</h1>
+  <h1>💻 Tech Stack 💻</h1>
 </div>
 
 <div align="left">
@@ -74,3 +74,32 @@
 </div>
 
 ---
+
+<div align="center">
+  <h1>⚡ Statistics ⚡</h1>
+  
+  <p align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ilhamrafi&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github" alt="Ilham's GitHub Stats" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilhamrafi&theme=react" alt="Ilham's GitHub Streak" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+<h1>🌐 Let's Connect</h1>
+
+<p>I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you want to discuss AI, machine learning, or just have a friendly chat!</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ilhamrafi/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://medium.com/@ilhamrafii" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+</p>
+</div>
