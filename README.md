@@ -90,7 +90,7 @@
 ---
 
 <div align="center">
-<h1>🌐 Let's Connect</h1>
+<h1>🌐 Let's Connect 🌐</h1>
 
 <p align="left">I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you want to discuss AI, machine learning, or just have a friendly chat!</p>
 
