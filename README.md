@@ -92,7 +92,7 @@
 <div align="center">
 <h1>🌐 Let's Connect</h1>
 
-<p>I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you want to discuss AI, machine learning, or just have a friendly chat!</p>
+<p align="left">I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you want to discuss AI, machine learning, or just have a friendly chat!</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ilhamrafi/" target="_blank">
