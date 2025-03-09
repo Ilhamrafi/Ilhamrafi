@@ -6,13 +6,15 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;Welcome+to+my+Github!+%F0%9F%A4%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hello+There!+%F0%9F%91%8B;Welcome+to+my+Github!+%F0%9F%A4%9F)](https://git.io/typing-svg)
 
 </div>
 
+---
+
 ## Ilham Rafiedhia Pramutighna
 
-/ˈil.ham ra.fiˈd.i.a pra.muˈtiɡ.na/
+/ˈɪl.hæm ræ.fɪˈdiː.ə prə.muˈtɪɡ.nə/
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
@@ -20,11 +22,55 @@
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JycGRvY3o5Y2ExZ2FmNWo5NDdjbTluNDh4cDNmdG5lZnJuYXkxciZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/ZgKHyjHcMaqTdVJxjW/giphy.gif" alt="Cat GIF" width="150" height="auto">
     </td>
     <td style="border: none; vertical-align: top; padding-left: 15px;">
-      Hi, I'm <b>Ilham</b>. I'm an <b>AI Engineer</b>, especially in <b>Computer Vision</b>.
+      Hello, I'm <b>Ilham</b>. A passionate <b>AI Engineer</b> from Indonesia. I enjoy learning and experimenting with various technologies, especially in the field of <b>Machine Learning</b> and <b> Deep Learning </b>. 🤖 
       <br><br>
-      Fun fact: I have an undeniable love for cofee, anime, and reading novels. I am also a Dota 2 player and i've racked up 2000+ hours of gameplay. 😆🎮
-      <br><br>
-      Let’s connect and innovate together guys! 👾
+      I'm open to collaborating on projects that involve <b>Computer Vision</b>, <b>Natural Language Processing</b >, and <b>Machine Learning</b>. If you have any questions or want to discuss potential projects, feel free to reach out to me. 😁🤟
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+  <h1>💻 Tech Stack</h1>
+</div>
+
+<div align="left">
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![Roboflow](https://img.shields.io/badge/Roboflow-%23404d59.svg?style=for-the-badge&logo=roboflow&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+  ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+  ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
+
+---
