@@ -22,7 +22,7 @@
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JycGRvY3o5Y2ExZ2FmNWo5NDdjbTluNDh4cDNmdG5lZnJuYXkxciZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/ZgKHyjHcMaqTdVJxjW/giphy.gif" alt="Cat GIF" width="150" height="auto">
     </td>
     <td style="border: none; vertical-align: top; padding-left: 15px;">
-      Hello, I'm <b>Ilham</b>. A passionate <b>AI Engineer</b> from Indonesia. I enjoy learning and experimenting with various technologies, especially in the field of <b>Machine Learning</b> and <b> Deep Learning </b>. 🤖 
+      Hello, I'm <b>Ilham</b>. A passionate <b>AI Engineer</b> from Indonesia. I enjoy learning and experimenting with various technologies, especially in the field of <b>Machine Learning</b> and <b> Deep Learning</b>. 🤖 
       <br><br>
       I'm open to collaborating on projects that involve <b>Computer Vision</b>, <b>NLP</b >, and <b>Machine Learning</b>. If you have any questions or want to discuss potential projects, feel free to reach out to me. 😁🤟
     </td>
@@ -90,7 +90,7 @@
 ---
 
 <div align="center">
-<h1>🌐 Let's Connect 🌐</h1>
+<h1>🌐 Let's Connect! 🌐</h1>
 
 <p align="left">I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you want to discuss AI, machine learning, or just have a friendly chat!</p>
 
@@ -100,6 +100,12 @@
 </a>
 <a href="https://medium.com/@ilhamrafii" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="https://www.kaggle.com/ilhamrafiedhia" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://www.instagram.com/ilhamrafi.pram/" target="_badge">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </p>
 </div>
