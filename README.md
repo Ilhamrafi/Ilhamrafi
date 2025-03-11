@@ -81,10 +81,10 @@
   <table>
     <tr>
       <td>
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ilhamrafi&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&cache_seconds=1800" alt="Ilham's GitHub Stats" />
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ilhamrafi&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github" alt="Ilham's GitHub Stats" />
       </td>
       <td>
-        <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilhamrafi&theme=react&cache_seconds=1800" alt="Ilham's GitHub Streak" />
+        <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ilhamrafi&theme=react" alt="Ilham's GitHub Streak" />
       </td>
     </tr>
   </table>
